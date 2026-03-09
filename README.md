@@ -2,17 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1dd620&center=true&vCenter=true&width=500&lines=Hi+I'm+Harol+Contreras;Full+Stack+Developer+in+progress;Learning+Web+Development;Always+learning+new+technologies" />
 </p>
 <h1 align="center">Hi 👋, I'm Harol Contreras</h1>
-
-<p align="center">
-Aspiring Full-Stack Developer passionate about technology and continuous learning.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haco31&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
 ## 🚀 About Me
 
 * 🌱 Currently learning **Web Development**
@@ -20,20 +9,24 @@ Aspiring Full-Stack Developer passionate about technology and continuous learnin
 * 📚 Interested in **Data Science and Backend Development**
 * 🎯 My goal is to become a **Full-Stack Developer**
 
+<p><img align="right" src="https://tenor.com/es/view/cat-computer-typing-fast-gif-5368357" alt="gato" /></p>
+
 ---
 
-## 🛠️ Technologies I'm Learning
 
-<p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,figma,github,html,js,linux,md,mysql,postman,ts,vscode,antigravity&perline=14" />
+  </a>
 </p>
 
 ---
