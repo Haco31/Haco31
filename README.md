@@ -2,19 +2,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1dd620&center=true&vCenter=true&width=500&lines=Hi+I'm+Harol+Contreras;Full+Stack+Developer+in+progress;Learning+Web+Development;Always+learning+new+technologies" />
 </p>
 <h1 align="center">Hi 👋, I'm Harol Contreras</h1>
+<p><img width="18%" align="right" src="/workflows/cat-computer.gif" alt="gato" /></p>
+
 ## 🚀 About Me
 
 * 🌱 Currently learning **Web Development**
 * 💻 Working with **HTML, CSS, JavaScript, Python, C and SQL**
 * 📚 Interested in **Data Science and Backend Development**
 * 🎯 My goal is to become a **Full-Stack Developer**
-
-<p><img align="right" src="https://tenor.com/es/view/cat-computer-typing-fast-gif-5368357" alt="gato" /></p>
-
----
-
-
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
