@@ -94,7 +94,13 @@ Una página de receta creada para practicar HTML semántico y maquetación con C
 <img src="https://raw.githubusercontent.com/haco31/haco31/output/github-contribution-grid-snake.svg" />
 </p>
 
+## 📂 Featured Projects
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=haco31&repo=recipe-page-html-css" />
+
+</p>
 
 <!--
 **Haco31/Haco31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
