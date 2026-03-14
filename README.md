@@ -9,9 +9,9 @@
 
 * 🌱 Currently learning **Web Development**
   
-* 💻 Working with **HTML, CSS, JavaScript, Python, C and SQL**
+* 💻 Working with **HTML, CSS, JavaScript, Python, SQL**
   
-* 📚 Interested in **Data Science and Backend Development**
+* 📚 Interested in **Data Science, Backend Development and cybersecurity**
   
 * 🎯 My goal is to become a **Full-Stack Developer**
 
