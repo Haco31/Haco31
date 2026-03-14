@@ -11,7 +11,7 @@
   
 * 💻 Working with **HTML, CSS, JavaScript, Python, SQL**
   
-* 📚 Interested in **Data Science, Backend Development and cybersecurity**
+* 📚 Interested in **Data Science, Backend Development and Cybersecurity**
   
 * 🎯 My goal is to become a **Full-Stack Developer**
 
