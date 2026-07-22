@@ -7,13 +7,13 @@
 
 <p><img width="18%" align="right" src="/workflows/cat-computer.gif" alt="gato" /></p>
 
-* 🌱 Currently learning **Web Development**
+* 🌱 Currently learning **Web Development and cybersecurity**
   
-* 💻 Working with **HTML, CSS, JavaScript, Python, SQL**
+* 💻 Working with **HTML, CSS, JavaScript, Python, SQL, postgreSQL, NodeJs, express, Docker and hacking tools**
   
-* 📚 Interested in **Data Science, Backend Development and Cybersecurity**
+* 📚 Interested in **Backend Development, Cybersecurity and TI support**
   
-* 🎯 My goal is to become a **Full-Stack Developer**
+* 🎯 My goal is to combine my skills in **backend development, cybersecurity, and IT support.**
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
